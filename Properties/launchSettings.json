@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "AsyncTest": {
+      "commandName": "Project"
+    },
+    "test_run": {
+      "commandName": "Executable",
+      "executablePath": "d:\\code\\godot_4_5\\Godot_v4.5-stable_mono_win64\\Godot_v4.5-stable_mono_win64.exe",
+      "commandLineArgs": "--path . --verbose \"res://node_2d.tscn\"",
+      "workingDirectory": "d:\\code\\AsyncTest\\"
+    }
+  }
+}
